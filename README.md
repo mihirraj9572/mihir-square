@@ -1,2 +1,2 @@
 # mihir-square
-licence under Mit
+It takes the input from the user and gives the square of that input
